@@ -1,6 +1,6 @@
 import random
 
-chaos = 1
+chaos = 5
 
 def ask(que=input("What's your question?: ")):
     ans = lookup()
